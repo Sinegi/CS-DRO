@@ -5,6 +5,9 @@ Official implementation of **Causal Structure-guided Distributionally Robust Opt
   <img src="main_fig.png" width="700">
 </p>
 
+For detailed derivations, proofs, additional experimental results, and extended analyses, please refer to the supplementary material. 
+
+📄 [Supplementary Material](Supplementary_Material.pdf)
 
 ##
 
