@@ -11,10 +11,9 @@ For detailed derivations, proofs, additional experimental results, and extended 
 
 ##
 
-We use iDAG (DomainBed), the link below has details. 
+We use the code of iDAG (DomainBed), the link below has details. 
 
-https://github.com/lccurious/iDAG
-https://github.com/facebookresearch/DomainBed
+* https://github.com/lccurious/iDAG
 
 Here is the file we modified:
 
