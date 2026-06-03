@@ -20,7 +20,7 @@ Here is the file we modified:
 
 * domainbed/algorithm/algorithms.py
 * domainbed/networks.py
-
+* domainbed/trainer.py
 
 
 ## Preparation
