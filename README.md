@@ -83,8 +83,7 @@ cd CS-DRO
 pip install -r requirements.txt
 ```
 
-> [!NOTE]
-> The training code requires a CUDA-enabled GPU. The pinned PyTorch and Torchvision packages target CUDA 11.8.
+
 
 ## 🚀 Quick Start
 
