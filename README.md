@@ -7,9 +7,11 @@
 </p>
 
 <p align="center">
-  <strong>Seonggyeom Kim · Eunjung Choi · Dong-Kyu Chae</strong>
+  <strong>Seonggyeom Kim<sup>†</sup> · Eunjung Choi<sup>†</sup> · Dong-Kyu Chae<sup>*</sup></strong>
   <br>
   <a href="https://dilab.hanyang.ac.kr/">Data Intelligence Lab</a>, Hanyang University
+  <br>
+  <sup>†</sup>Equal contribution &nbsp;&nbsp; <sup>*</sup>Corresponding author
   <br><br>
   <a href="CS-DRO.pdf"><strong>Main Paper</strong></a> ·
   <a href="Supplementary_Material.pdf"><strong>Supplementary Material</strong></a> ·
