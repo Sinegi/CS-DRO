@@ -20,6 +20,7 @@
 
 ## 💡 CS-DRO Framework
 
+
 CS-DRO is a domain generalization framework that integrates learned causal structure into distributionally robust optimization for reliable prediction under unseen domain shifts.
 
 CS-DRO first maps samples from multiple source domains into a latent representation and learns a DAG over the resulting features. The learned structure determines causally relevant feature masks and constrains the adversarial inner maximization. The model is then optimized against worst-case feature distributions while regularizing prediction consistency and structural preservation.
